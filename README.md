@@ -9,8 +9,8 @@
 ## 🧰 Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,html,css,mysql,nodejs,react,nextjs,linux,vscode,git,github,flask,fastapi,docker,postman" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,mysql,nodejs,react,nextjs,linux,vscode,git,github,flask,fastapi,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy,matplotlib,seaborn,mlflow,dagshub,apacheairflow,aws" />
 </p>
 
 ---
